@@ -1,2 +1,2 @@
-# discord bot
+# bdfd
 bdfd kódok magyarul 
